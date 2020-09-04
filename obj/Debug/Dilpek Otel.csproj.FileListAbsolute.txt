@@ -1,0 +1,28 @@
+C:\Users\Ipek\Documents\Visual Studio 2013\Projects\Çalışmalarım\Dilpek Otel\Dilpek Otel\bin\Debug\Dilpek Otel.exe.config
+C:\Users\Ipek\Documents\Visual Studio 2013\Projects\Çalışmalarım\Dilpek Otel\Dilpek Otel\bin\Debug\Dilpek Otel.exe
+C:\Users\Ipek\Documents\Visual Studio 2013\Projects\Çalışmalarım\Dilpek Otel\Dilpek Otel\bin\Debug\Dilpek Otel.pdb
+C:\Users\Ipek\Documents\Visual Studio 2013\Projects\Çalışmalarım\Dilpek Otel\Dilpek Otel\obj\Debug\Dilpek Otel.csprojResolveAssemblyReference.cache
+C:\Users\Ipek\Documents\Visual Studio 2013\Projects\Çalışmalarım\Dilpek Otel\Dilpek Otel\obj\Debug\Dilpek_Otel.Properties.Resources.resources
+C:\Users\Ipek\Documents\Visual Studio 2013\Projects\Çalışmalarım\Dilpek Otel\Dilpek Otel\obj\Debug\Dilpek Otel.csproj.GenerateResource.Cache
+C:\Users\Ipek\Documents\Visual Studio 2013\Projects\Çalışmalarım\Dilpek Otel\Dilpek Otel\obj\Debug\Dilpek Otel.exe
+C:\Users\Ipek\Documents\Visual Studio 2013\Projects\Çalışmalarım\Dilpek Otel\Dilpek Otel\obj\Debug\Dilpek Otel.pdb
+C:\Users\Ipek\Documents\Visual Studio 2013\Projects\Çalışmalarım\Dilpek Otel\Dilpek Otel\obj\Debug\Dilpek_Otel.FrmAdminGiris.resources
+C:\Users\Ipek\Documents\Visual Studio 2013\Projects\Çalışmalarım\Dilpek Otel\Dilpek Otel\obj\Debug\Dilpek_Otel.FrmAnaForm.resources
+C:\Users\Ipek\Documents\Visual Studio 2013\Projects\Çalışmalarım\Dilpek Otel\Dilpek Otel\obj\Debug\Dilpek_Otel.Odalar.resources
+C:\Users\Ipek\Documents\Visual Studio 2013\Projects\Çalışmalarım\Dilpek Otel\Dilpek Otel\obj\Debug\Dilpek_Otel.Müsteriler.resources
+C:\Users\Ipek\Documents\Visual Studio 2013\Projects\Çalışmalarım\Dilpek Otel\Dilpek Otel\obj\Debug\Dilpek_Otel.FrmHakkımızda.resources
+C:\Users\Ipek\Documents\Visual Studio 2013\Projects\Çalışmalarım\Dilpek Otel\Dilpek Otel\obj\Debug\Dilpek_Otel.FrmMesajlar.resources
+C:\Users\Ipek\Documents\Visual Studio 2013\Projects\Çalışmalarım\Dilpek Otel\Dilpek Otel\obj\Debug\Dilpek_Otel.FrmMüsteriEkleme.resources
+C:\Users\Ipek\Documents\Visual Studio 2013\Projects\Çalışmalarım\Dilpek Otel\Dilpek Otel\bin\Debug\Interop.WMPLib.dll
+C:\Users\Ipek\Documents\Visual Studio 2013\Projects\Çalışmalarım\Dilpek Otel\Dilpek Otel\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Ipek\Documents\Visual Studio 2013\Projects\Çalışmalarım\Dilpek Otel\Dilpek Otel\obj\Debug\Interop.WMPLib.dll
+C:\Users\Ipek\Documents\Visual Studio 2013\Projects\Çalışmalarım\Dilpek Otel\Dilpek Otel\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Ipek\Documents\Visual Studio 2013\Projects\Çalışmalarım\Dilpek Otel\Dilpek Otel\obj\Debug\Dilpek Otel.csproj.ResolveComReference.cache
+C:\Users\Ipek\Documents\Visual Studio 2013\Projects\Çalışmalarım\Dilpek Otel\Dilpek Otel\obj\Debug\Dilpek_Otel.FrmRadyo.resources
+C:\Users\Ipek\Documents\Visual Studio 2013\Projects\Çalışmalarım\Dilpek Otel\Dilpek Otel\obj\Debug\Dilpek_Otel.FrmFoto.resources
+C:\Users\Ipek\Desktop\Dilpek Otel\Dilpek Otel\bin\Debug\Dilpek Otel.exe.config
+C:\Users\Ipek\Desktop\Dilpek Otel\Dilpek Otel\obj\Debug\Interop.WMPLib.dll
+C:\Users\Ipek\Desktop\Dilpek Otel\Dilpek Otel\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Ipek\Desktop\Dilpek Otel\Dilpek Otel\obj\Debug\Dilpek Otel.csproj.ResolveComReference.cache
+C:\Users\Ipek\Desktop\Dilpek Otel\Dilpek Otel\obj\Debug\Dilpek Otel.exe
+C:\Users\Ipek\Desktop\Dilpek Otel\Dilpek Otel\obj\Debug\Dilpek Otel.pdb
